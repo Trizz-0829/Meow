@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "🐟ThangTuVuive:)",
+    introTitle: 'Mèo ơi!',
+    introDesc: `Không câu từ hoa mỹ
+    Không văn vở gì nhiều
+    Chỉ mong em nhớ kỹ
+    Em là người tôi yêu`,
+    btnIntro: 'Hehe(^._.^)ﾉ',
+    title: 'Em đến với anh, trao cho anh hơi ấm tình yêu một cách bất ngờ. Tưởng rằng có thể cưỡng lại nhưng không thể, anh đã trót yêu em rồi. Cho nên là... ',
+    desc: 'Dợi anh nhé được không ! <3',
+    btnYes: 'Dạaaaaa <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    question: 'Hỏi lần cuối nè, Đợi anh nhé yêu anh nhé <3',
+    btnReply: 'Gửi cho Trizz <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu :3',
+    mess: 'Hey! có gì thì cứ chia sẻ cho anh nha. Anh sẽ an ủi/giúp em trong khả năng của mình. Hãy để anh được cùng em đau :3',
+    messDesc: 'Uci không Mèoooooo ơiiiii(^._.^)ﾉ',
+    btnAccept: 'Uciiiii lun <3',
+    messLink: 'https://lixi.momo.vn/lixi/dy8W7r3PWwJx8VM' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
