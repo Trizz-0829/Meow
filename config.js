@@ -7,7 +7,7 @@ const CONFIG = {
     Em là người tôi yêu`,
     btnIntro: 'Hehe(^._.^)ﾉ',
     title: 'Em đến với anh, trao cho anh hơi ấm tình yêu một cách bất ngờ. Tưởng rằng có thể cưỡng lại nhưng không thể, anh đã trót yêu em rồi. Cho nên là... ',
-    desc: 'Dợi anh nhé được không ! <3',
+    desc: 'Đợi anh nhé được không ! <3',
     btnYes: 'Dạaaaaa <33',
     btnNo: 'Không nha :3',
     question: 'Hỏi lần cuối nè, Đợi anh nhé yêu anh nhé <3',
